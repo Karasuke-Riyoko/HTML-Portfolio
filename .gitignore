@@ -1,0 +1,8 @@
+# Ignore all files by default
+*
+
+# Allow portfolio files
+!index.html
+!assignment 19.html
+!README.md
+!.gitignore
